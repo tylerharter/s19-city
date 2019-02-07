@@ -6,7 +6,7 @@ Bold indicates an area of primary focus, and non-bold an area of secondary focus
 * Traffic Engineering: **Yuankun (T3)**, Kyle (T3)
 * Parks: **Jake (T2)**
 * Police: **Kyle (T3)**, Chris (T2)
-* Streets: Anna (T2)
+* Streets: **Langston (T2)**, Anna (T2)
 * Engineering: **Chris (T2)**, Annie (T3)
 * Fire: **Anna (T2)**
 * Community Development: **Annie (T3)**, Jin Woo (T2)
@@ -15,6 +15,6 @@ Bold indicates an area of primary focus, and non-bold an area of secondary focus
 * Economic Development: **Swaraj (T1)**, April (T2)
 * Building Inspection: Ellen (T1)
 * Human Resources: Zan (T1)
-* Attorney: Whitney (T1)
+* Attorney: Whitney (T1), Langston (T2)
 * Information Technology: **Zan (T1)**, Sally (T3)
 * Transportation: **Ellen (T1)**
